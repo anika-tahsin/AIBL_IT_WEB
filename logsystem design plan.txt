@@ -1,0 +1,9 @@
+Login page-->
+User ID
+password
+
+Header-->
+Logo Troubleshooting System, ICT wing, Al-arafah Islami bank Ltd.
+
+Menubar-->
+Home, Notice, Contact List, Services, Logout, Search, FAQ, Vendor issue
