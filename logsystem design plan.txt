@@ -3,7 +3,20 @@ User ID
 password
 
 Header-->
-Logo Troubleshooting System, ICT wing, Al-arafah Islami bank Ltd.
+Logo 
+Troubleshooting System, 
+ICT wing, Al-arafah Islami bank Ltd.
 
 Menubar-->
-Home, Notice, Contact List, Services, Logout, Search, FAQ, Vendor issue
+Home, Notice, Contact List, Services, Dispute(Visible only to the permitted user), Search, FAQ, Vendor issue, Logout
+
+Pages-->
+Home, 
+Notice, 
+Contact List, 
+Services, 
+Dispute(Visible only to the permitted user), 
+Search, 
+FAQ, 
+Vendor issue, 
+Logout
