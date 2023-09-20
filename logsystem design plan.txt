@@ -20,3 +20,5 @@ Search,
 FAQ, 
 Vendor issue, 
 Logout
+
+tailwind
